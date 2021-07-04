@@ -1,0 +1,20 @@
+{
+  "name": "test01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -fr ./dist/* && cp -rp assets dist && cp index.html ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaliberti/llhome-test01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucaliberti/llhome-test01/issues"
+  },
+  "homepage": "https://github.com/lucaliberti/llhome-test01#readme"
+}
