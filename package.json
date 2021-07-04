@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "rm -fr ./dist/*  && mkdir -p ./dist/assets &&  cp -rv ./assets ./dist/assets && cp index.html ./dist"
+    "build": "rm -fr ./dist/*  && mkdir -p ./dist/assets &&  cp -rv ./assets ./dist && cp index.html ./dist"
   },
   "repository": {
     "type": "git",
